@@ -1,0 +1,7 @@
+# One stock per line, exactly as the NSE symbol. Lines starting with # are ignored.
+RELIANCE
+HDFCBANK
+ICICIBANK
+INFY
+TCS
+SBIN

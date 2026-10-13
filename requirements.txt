@@ -1,0 +1,5 @@
+fyers-apiv3
+streamlit>=1.37
+pandas
+python-dotenv
+requests
